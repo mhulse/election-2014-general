@@ -55,33 +55,6 @@
 	<script src="http://zeppelin.registerguard.com/prod/0.1.0/20140911/1/scripts/zeppelin.min.js"></script>
 	<!-- [END] Zeppelin -->
 	
-	<!-- [BEGIN] OpenX -->
-	<script src="//ox-d.registerguard.com/w/1.0/jstag"></script>
-	<script>
-		
-		var _ox = OX();
-		
-		// Section front:
-		_ox.addAdUnit('537200277'); // Leaderboard 1
-		_ox.addAdUnit('537200313'); // Mobile Banner
-		_ox.addAdUnit('537229382'); // Medium Rectangle 1
-		_ox.addAdUnit('537229386'); // Medium Rectangle 2
-		
-		// ROS:
-		_ox.addAdUnit('537200307'); // ROS Leaderboard Bottom
-		_ox.addAdUnit('537200312'); // ROS Mobile Banner Bottom
-		
-		// Variables:
-		_ox.addVariable('bp', ((window.innerWidth <= 960) ? 'm' : 'd'));
-		
-		_ox.addVariable('s', 'news');
-		_ox.addVariable('c', 'election-2014');
-		
-		// Get ads:
-		_ox.fetchAds();
-		
-	</script>
-	<!-- [END] OpenX -->
 	
 	<!--<meta http-equiv="refresh" content="900">-->
 	
@@ -156,7 +129,7 @@
 					
 					<div class="pure-g pure-pad">
 						
-						<div id="latest" class="pure-u-1 pure-u-md-1-2">
+						<div id="latest" class="pure-u-1 pure-u-md-1-3">
 							
 							<h3 class="mast">Latest news</h3>
 							
@@ -164,7 +137,15 @@
 							
 						</div> <!-- .pure-u-1 -->
 						
-						<div id="twitter" class="pure-u-1 pure-u-md-1-2">
+						<div id="ap" class="pure-u-1 pure-u-md-1-3">
+							
+							<h3 class="mast">Recent coverage</h3>
+							
+							<div id="recent-coverage" data-items="10" data-subcats="elections, politics" class="stories loading"></div>
+							
+						</div> <!-- .pure-u-1 -->
+						
+						<div id="twitter" class="pure-u-1 pure-u-md-1-3">
 							
 							<h3 class="mast"><a href="https://twitter.com/registerguard/lists/rg-vote-2014" target="_blank" rel="nofollow">@registerguard/rg-vote-2014</a></h3>
 							
@@ -176,7 +157,7 @@
 									data-list-owner-screen-name="registerguard"
 									data-list-slug="rg-vote-2014"
 									width="100%"
-									height="1000px"
+									height="500px"
 									target="_blank"
 									rel="nofollow"
 								>
@@ -188,7 +169,6 @@
 						</div> <!-- .pure-u-1 -->
 						
 					</div> <!-- /.pure-g -->
-					
 					
 				</section>
 				
