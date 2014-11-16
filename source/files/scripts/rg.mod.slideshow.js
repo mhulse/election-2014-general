@@ -23,7 +23,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'parallax',
-		api: 'data/electionssp.json',
+		api: '/election-2014-general/data/electionssp.json',
 		seconds: 360, // 6 mins.
 		type: 'json',
 		callback: function($data, $options) {

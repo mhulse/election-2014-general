@@ -5,7 +5,7 @@ RG.register(function() {
 	
 	'use strict';
 	
-	$.pollster.defaults.api = 'stories.json';
+	$.pollster.defaults.api = '/election-2014-general/data/stories.json';
 	$.pollster.defaults.seconds = 180; // 3 mins.
 	$.pollster.defaults.type = 'json';
 	

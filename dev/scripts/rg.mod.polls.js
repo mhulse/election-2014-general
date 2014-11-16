@@ -10,7 +10,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'state-races-results',
-		api: 'data/stater.json',
+		api: '/election-2014-general/data/stater.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
@@ -120,7 +120,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'state-measures-results',
-		api: 'data/statem.json',
+		api: '/election-2014-general/data/statem.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
@@ -230,7 +230,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'lane-county-results',
-		api: 'data/laneco.json',
+		api: '/election-2014-general/data/laneco.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
@@ -315,7 +315,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'eugspr-results',
-		api: 'data/eugspr.json',
+		api: '/election-2014-general/data/eugspr.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
@@ -400,7 +400,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'regional-races-results',
-		api: 'data/region.json',
+		api: '/election-2014-general/data/region.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
@@ -484,7 +484,7 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'lane-county-measures-results',
-		api: 'data/laneme.json',
+		api: '/election-2014-general/data/laneme.json',
 		callback: function($data, $options) {
 			
 			var $this = $(this);
