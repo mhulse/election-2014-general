@@ -1,0 +1,187 @@
+[
+  {
+    "contest_name": "20-227",
+    "explainer_text": "Cottage Grove: allows revision to city charter",
+    "contest_id": 51,
+    "short_description": "",
+    "contest_wrapper": "Cottage Grove",
+    "options": [
+      {
+        "percent_of_lane_votes": "71.1",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "1,843",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 118,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "28.9",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "749",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 119,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-224",
+    "explainer_text": "Florence: creates gas tax for street fund",
+    "contest_id": 52,
+    "short_description": "",
+    "contest_wrapper": "Florence",
+    "options": [
+      {
+        "percent_of_lane_votes": "55.15",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "2,031",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 121,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "44.85",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "1,652",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 120,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-229",
+    "explainer_text": "Crow-Applegate-Lorane School District No. 66: renews five-year operation levy",
+    "contest_id": 54,
+    "short_description": "",
+    "contest_wrapper": "Crow-Applegate-Lorane School District 66",
+    "options": [
+      {
+        "percent_of_lane_votes": "70.97",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "704",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 124,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "29.03",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "288",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 125,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-228",
+    "explainer_text": "Santa Clara RFPD: five-year general operation local option levy",
+    "contest_id": 57,
+    "short_description": "",
+    "contest_wrapper": "Santa Clara RFPD",
+    "options": [
+      {
+        "percent_of_lane_votes": "57.45",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "2,243",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 130,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "42.55",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "1,661",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 131,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-225",
+    "explainer_text": "Rainbow Water & Fire District: four-year local option fire protection levy",
+    "contest_id": 58,
+    "short_description": "",
+    "contest_wrapper": "Rainbow Water and Fire District",
+    "options": [
+      {
+        "percent_of_lane_votes": "76.96",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "1,907",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 132,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "23.04",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "571",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 133,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "contest_name": "Ward 3",
+    "explainer_text": "",
+    "contest_id": 2,
+    "short_description": "",
+    "contest_wrapper": "Eugene City Council",
+    "options": [
+      {
+        "percent_of_lane_votes": "96.11",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "3,163",
+        "percent_of_state_votes": 0,
+        "name": "Alan Zelenka",
+        "cand_meas_id": 4,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "3.89",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "128",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 5,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "Ward 4",
+    "explainer_text": "",
+    "contest_id": 3,
+    "short_description": "",
+    "contest_wrapper": "Eugene City Council",
+    "options": [
+      {
+        "percent_of_lane_votes": "96.8",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "3,878",
+        "percent_of_state_votes": 0,
+        "name": "George Poling",
+        "cand_meas_id": 6,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "3.2",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "128",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 7,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "Ward 5",
+    "explainer_text": "",
+    "contest_id": 4,
+    "short_description": "",
+    "contest_wrapper": "Eugene City Council",
+    "options": [
+      {
+        "percent_of_lane_votes": "97.63",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "4,247",
+        "percent_of_state_votes": 0,
+        "name": "Mike Clark",
+        "cand_meas_id": 8,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "2.37",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "103",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 9,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "Ward 6",
+    "explainer_text": "",
+    "contest_id": 5,
+    "short_description": "",
+    "contest_wrapper": "Eugene City Council",
+    "options": [
+      {
+        "percent_of_lane_votes": "97.22",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "3,353",
+        "percent_of_state_votes": 0,
+        "name": "Greg Evans",
+        "cand_meas_id": 10,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "2.78",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "96",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 11,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "Ward 6",
+    "explainer_text": "",
+    "contest_id": 15,
+    "short_description": "",
+    "contest_wrapper": "Springfield CIty Council",
+    "options": [
+      {
+        "percent_of_lane_votes": "52.07",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "7,313",
+        "percent_of_state_votes": 0,
+        "name": "Joe Pishioneri",
+        "cand_meas_id": 43,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "47.36",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "6,652",
+        "percent_of_state_votes": 0,
+        "name": "Denise Bean",
+        "cand_meas_id": 44,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "0.57",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "80",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 45,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 19,
+    "short_description": "",
+    "contest_wrapper": "EWEB",
+    "options": [
+      {
+        "percent_of_lane_votes": "97.07",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "27,671",
+        "percent_of_state_votes": 0,
+        "name": "John Simpson",
+        "cand_meas_id": 53,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "2.93",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "835",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 54,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 20,
+    "short_description": "",
+    "contest_wrapper": "EWEB",
+    "options": [
+      {
+        "percent_of_lane_votes": "98",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "7,536",
+        "percent_of_state_votes": 0,
+        "name": "John Brown",
+        "cand_meas_id": 55,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "2",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "154",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 56,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 21,
+    "short_description": "",
+    "contest_wrapper": "Springfield Utility Board",
+    "options": [
+      {
+        "percent_of_lane_votes": "98.28",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "9,825",
+        "percent_of_state_votes": 0,
+        "name": "David Willis",
+        "cand_meas_id": 57,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "1.72",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "172",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 58,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 22,
+    "short_description": "",
+    "contest_wrapper": "Springfield Utility Board",
+    "options": [
+      {
+        "percent_of_lane_votes": "98.57",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "9,431",
+        "percent_of_state_votes": 0,
+        "name": "Virginia Lauritsen",
+        "cand_meas_id": 59,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "1.43",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "137",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 60,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 23,
+    "short_description": "",
+    "contest_wrapper": "Springfield Utility Board",
+    "options": [
+      {
+        "percent_of_lane_votes": "98.67",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "9,620",
+        "percent_of_state_votes": 0,
+        "name": "Tom Draggoo",
+        "cand_meas_id": 61,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "1.33",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "130",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 62,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "",
+    "explainer_text": "",
+    "contest_id": 24,
+    "short_description": "",
+    "contest_wrapper": "Springfield Utility Board",
+    "options": [
+      {
+        "percent_of_lane_votes": "98.67",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "9,338",
+        "percent_of_state_votes": 0,
+        "name": "Ken Boyst",
+        "cand_meas_id": 63,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": true
+      },
+      {
+        "percent_of_lane_votes": "1.33",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "126",
+        "percent_of_state_votes": 0,
+        "name": "write-in",
+        "cand_meas_id": 64,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-223",
+    "explainer_text": "Springfield: amends charter to allow councilor, mayor stipend",
+    "contest_id": 53,
+    "short_description": "",
+    "contest_wrapper": "Springfield",
+    "options": [
+      {
+        "percent_of_lane_votes": "56.16",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "9,558",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 123,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "43.84",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "7,462",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 122,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-222",
+    "explainer_text": "4J: renews five-year local option general school operation levy",
+    "contest_id": 55,
+    "short_description": "",
+    "contest_wrapper": "Eugene School District 4J",
+    "options": [
+      {
+        "percent_of_lane_votes": "75.76",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "44,644",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 126,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "24.24",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "14,286",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 127,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "20-226",
+    "explainer_text": "Springfield School District No. 19: general obligation bond",
+    "contest_id": 56,
+    "short_description": "",
+    "contest_wrapper": "Springfield School District 19",
+    "options": [
+      {
+        "percent_of_lane_votes": "52.99",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "12,612",
+        "percent_of_state_votes": 0,
+        "name": "Yes",
+        "cand_meas_id": 128,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "47.01",
+        "state_votes": "0",
+        "affiliation": "N",
+        "lane_votes": "11,188",
+        "percent_of_state_votes": 0,
+        "name": "No",
+        "cand_meas_id": 129,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": false,
+        "incumbent": false
+      }
+    ]
+  }
+]

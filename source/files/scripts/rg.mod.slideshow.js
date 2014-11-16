@@ -23,8 +23,9 @@ RG.register(function() {
 	
 	$.pollster({
 		target: 'parallax',
-		api: 'http://sandbox.registerguard.com/electionssp/',
+		api: 'data/electionssp.json',
 		seconds: 360, // 6 mins.
+		type: 'json',
 		callback: function($data, $options) {
 			
 			// http://www.programming-free.com/2013/12/change-background-image-jquery.html

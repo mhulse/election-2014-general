@@ -1,0 +1,261 @@
+[
+  {
+    "contest_name": "86",
+    "explainer_text": "Post-secondary education fund",
+    "contest_id": 44,
+    "short_description": "",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "50.35",
+        "state_votes": "788,151",
+        "affiliation": "N",
+        "lane_votes": "65,233",
+        "percent_of_state_votes": "57.58",
+        "name": "No",
+        "cand_meas_id": 105,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "49.65",
+        "state_votes": "580,730",
+        "affiliation": "N",
+        "lane_votes": "64,335",
+        "percent_of_state_votes": "42.42",
+        "name": "Yes",
+        "cand_meas_id": 104,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "87",
+    "explainer_text": "National Guard employment of state judges",
+    "contest_id": 45,
+    "short_description": "",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "59.97",
+        "state_votes": "777,271",
+        "affiliation": "N",
+        "lane_votes": "76,856",
+        "percent_of_state_votes": "57.51",
+        "name": "Yes",
+        "cand_meas_id": 106,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "40.03",
+        "state_votes": "574,363",
+        "affiliation": "N",
+        "lane_votes": "51,294",
+        "percent_of_state_votes": "42.49",
+        "name": "No",
+        "cand_meas_id": 107,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "88",
+    "explainer_text": "Resident \"driver card\"",
+    "contest_id": 46,
+    "short_description": "",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "62",
+        "state_votes": "941,042",
+        "affiliation": "N",
+        "lane_votes": "83,285",
+        "percent_of_state_votes": "66.27",
+        "name": "No",
+        "cand_meas_id": 109,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "38",
+        "state_votes": "479,011",
+        "affiliation": "N",
+        "lane_votes": "51,035",
+        "percent_of_state_votes": "33.73",
+        "name": "Yes",
+        "cand_meas_id": 108,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "89",
+    "explainer_text": "Equal rights",
+    "contest_id": 47,
+    "short_description": "",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "67.12",
+        "state_votes": "878,768",
+        "affiliation": "N",
+        "lane_votes": "87,687",
+        "percent_of_state_votes": "64.01",
+        "name": "Yes",
+        "cand_meas_id": 110,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "32.88",
+        "state_votes": "494,148",
+        "affiliation": "N",
+        "lane_votes": "42,958",
+        "percent_of_state_votes": "35.99",
+        "name": "No",
+        "cand_meas_id": 111,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "90",
+    "explainer_text": "\u201cTop-two\u201d primary",
+    "contest_id": 48,
+    "short_description": "\u201cTop-two\u201d primary",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "72.8",
+        "state_votes": "941,838",
+        "affiliation": "N",
+        "lane_votes": "95,416",
+        "percent_of_state_votes": "68.29",
+        "name": "No",
+        "cand_meas_id": 113,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "27.2",
+        "state_votes": "437,402",
+        "affiliation": "N",
+        "lane_votes": "35,642",
+        "percent_of_state_votes": "31.71",
+        "name": "Yes",
+        "cand_meas_id": 112,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "91",
+    "explainer_text": "Marijuana legalization",
+    "contest_id": 49,
+    "short_description": "Marijuana legalization",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "60.23",
+        "state_votes": "802,627",
+        "affiliation": "N",
+        "lane_votes": "82,260",
+        "percent_of_state_votes": "55.76",
+        "name": "Yes",
+        "cand_meas_id": 114,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "39.77",
+        "state_votes": "636,824",
+        "affiliation": "N",
+        "lane_votes": "54,314",
+        "percent_of_state_votes": "44.24",
+        "name": "No",
+        "cand_meas_id": 115,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  },
+  {
+    "contest_name": "92",
+    "explainer_text": "GMO labeling",
+    "contest_id": 50,
+    "short_description": "GMO labeling",
+    "contest_wrapper": "State Measure",
+    "options": [
+      {
+        "percent_of_lane_votes": "42.69",
+        "state_votes": "722,278",
+        "affiliation": "N",
+        "lane_votes": "58,146",
+        "percent_of_state_votes": "50.34",
+        "name": "No",
+        "cand_meas_id": 117,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      },
+      {
+        "percent_of_lane_votes": "57.31",
+        "state_votes": "712,508",
+        "affiliation": "N",
+        "lane_votes": "78,073",
+        "percent_of_state_votes": "49.66",
+        "name": "Yes",
+        "cand_meas_id": 116,
+        "extra_text": "",
+        "affiliation_pretty": "Nonpartisan",
+        "image_url": "",
+        "statewide_issue": true,
+        "incumbent": false
+      }
+    ]
+  }
+]

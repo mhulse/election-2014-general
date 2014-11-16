@@ -483,6 +483,7 @@ module.exports = function(grunt) {
 							'images/**/*.{gif,png}',
 							'media/**/*',
 							'scripts/**/*',
+							'data/**/*',
 						],
 						dest : '../dev/',
 						
@@ -503,6 +504,7 @@ module.exports = function(grunt) {
 						src : [
 							'images/**/*.{gif,png}',
 							'media/**/*',
+							'data/**/*',
 							'!**/junk/**',
 						],
 						dest : '../prod/<%= pkg.version %>/<%= now %>/<%= ver %>/',
